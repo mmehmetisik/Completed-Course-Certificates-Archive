@@ -10,7 +10,7 @@ Bu repo, tamamlanmış kursların sertifikalarını içeren bir arşivdir. Her b
 | 1  | [Data Scientist Bootcamp](Data_Scientist_Bootcamp.png)           | Miuul                         |
 | 2  | [AWS Colud Technical Bootcamp](AWS_Colud_Technical_Bootcamp.png)      | Miuul                         |
 | 3  | [Data Engineer Path](Data_Engineer_Path.png)                | Miuul                         |
-| 4  | [Python Programming for Data Science](Mehmet_Isik_-_2023-02-14_Python_Programming_for_Data_Science.pdf) | Miuul                      |
+| 4  | [Python Programming for Data Science](Mehmet Işık - 2023-02-14 Python Programming for Data Science.pdf) | Miuul                      |
 | 5  | [CRM Analytics](Mehmet_Isik_-_2023-03-05_CRM_Analytics.pdf)                     | Miuul                         |
 | 6  | [Measurement Problems](Mehmet_Isik_-_2023-03-15_Measurement_Problems.pdf)              | Miuul                         |
 | 7  | [Recommendation Systems](Mehmet_Isik_-_2023-03-21_Recommendation_Systems.pdf)            | Miuul                         |
