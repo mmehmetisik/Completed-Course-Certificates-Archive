@@ -1,9 +1,9 @@
 # Completed Course Certificates Archive
 
-## Proje Tanıtımı
-Bu repo, tamamlanmış kursların sertifikalarını içeren bir arşivdir. Her bir sertifika, ilgili kursun adı belirtilerek dosya olarak eklenmiştir.
+## Description
+This repository is an archive of certificates for completed courses. Each certificate is included as a file with the course name specified.
 
-## Sertifikalar
+## Certificates
 
 | №  | Course name                       | Educational organization      |
 |----|-----------------------------------|-------------------------------|
