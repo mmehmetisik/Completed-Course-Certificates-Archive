@@ -36,7 +36,7 @@ This repository is an archive of certificates for completed courses. Each certif
 | 27 | [Veri Okuryazarlığı 101](Mehmet%20Işık-Veri%20Okuryazarlığı101.pdf) | Turkcell |
 | 28 | [Dijital Okuryazarlık 101](Mehmet%20Işık-Dijital%20Okuryazarlık101.pdf) | Turkcell |
 | 29 | [Veri Bilimi ve Yapay Zekaya Giriş101](Mehmet%20Işık-Veri%20Bilimi%20ve%20Yapay%20Zekaya%20Giriş101.pdf) | Turkcell |
-| 30 | [Python Artık Çocuk Oyuncağı ve Örnekler Python](image.png) | Udemy |
+| 30 | [Python Artık Çocuk Oyuncağı ve Örnekler Python](Python Artık Çocuk Oyuncağı ve Örnekler Python.pdf) | Udemy |
 | 31 | [E-Ticarete Giriş](E-Ticarete_Giri__Sertifika.pdf) | Bilgi Teknolojileri ve İletişim Kurumu |
 | 32 | [Get Started With StudioX - Turkish](LearningPath_Certificate_08172021072315990.pdf) | Thomas P. Clancy |
 | 33 | [Word Automation with StudioX - Turkish](LearningPath_Certificate_08172021134912779.pdf) | Thomas P. Clancy |
